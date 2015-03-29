@@ -1,0 +1,1 @@
+INSERT INTO manager(USERNAME,PASSWORD) VALUES('admin','admin')

@@ -1,0 +1,28 @@
+body {
+	margin-top: 60px;
+	font-family: "微软雅黑", "Times New Roman", Georgia, Serif;
+}
+
+.register .panel-body {
+	padding-top: 40px;
+}
+
+.login .panel-body {
+	padding-top: 40px;
+}
+
+#login-body {
+	width: 300px;
+	margin: 0 auto;
+}
+
+#login-body .input-group {
+	padding-top: 8px;
+}
+.errormessage{
+	color: red;
+}
+
+.tablejuli{
+	margin-top: 20px;
+}

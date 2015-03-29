@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: xiner
+Build-Jdk: 1.8.0_40-internal
+Created-By: Maven Integration for Eclipse
+Main-Class: com.example.Application
+
